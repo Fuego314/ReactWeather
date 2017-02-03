@@ -1,0 +1,9 @@
+.page-title {
+	margin-top: 1.25em;
+	margin-bottom: 1.25em;
+}
+
+input[type="search"] {
+	box-shadow: none;
+	margin-bottom: 0;
+}
