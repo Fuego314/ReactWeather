@@ -8,10 +8,10 @@ let Examples = props => {
 			<p>Here are a few example locations to try out</p>
 			<ol>
 				<li>
-					<Link to='/Cowplain'>Cowplain, GB</Link>
+					<Link to='/?Cowplain'>Cowplain, GB</Link>
 				</li>
 				<li>
-					<Link to='/Rio'>Rio, Brazil</Link>
+					<Link to='/?Rio'>Rio, Brazil</Link>
 				</li>
 			</ol>
 		</div>
